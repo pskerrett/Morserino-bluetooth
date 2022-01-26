@@ -10,3 +10,6 @@ I had to disable all Wifi functionality to make enough memory available to fit t
 
 Requires:
 https://github.com/T-vK/ESP32-BLE-Keyboard
+
+
+-W9PDS
